@@ -15,6 +15,7 @@
              alicia.evans@fphcare.co.nz
              matt.stephenson@fphcare.co.nz
              sarah.morgan@cometauckland.org.nz
+             jason.ng@fphcare.co.nz
 -------------------------------------------------------------------- */ 
 
 //Define the pins for the moisture sensors
